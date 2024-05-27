@@ -17,16 +17,11 @@
   * 2.5mm² (1.8mm dia) copper wire
   * Designed for 868 Mhz
 
-* Check the STL dir for pre rendered STLs
+* Check the [stl](stl) dir for pre rendered STLs
 
-Picture
-
-Loop form
-  
-Support
-
-PIC
-
+![Picture](img/collinear2_and_box.png)
+![Loop form](img/loop_form_2.5mm2_wire_26.8mm_dia.png)
+![Support](img/support_8mm_rod_2.5mm2_wire.png)
 
 
 
