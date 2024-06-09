@@ -1,4 +1,4 @@
-# Anttenae
+# Antenae
 
 Miscellaneous antenna stuff, rendering, 3d prints, tests, etc.
 
